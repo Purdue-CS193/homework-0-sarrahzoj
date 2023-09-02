@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Sarrah Zojwalla's First CS193 Homework.
+
+- Armaan is a great instructor.
+- Eddie is an even better instructor.
+- I love the fact that students will be teaching me about their experience in CS.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
